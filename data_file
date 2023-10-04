@@ -1,0 +1,11 @@
+{
+    "python": [
+        "tenserflow"
+    ],
+    "java": [
+        "spring"
+    ],
+    "javascript": [
+        "jquery"
+    ]
+}
